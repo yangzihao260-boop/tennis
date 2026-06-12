@@ -1,0 +1,6 @@
+{
+  "name": "Tennis Ninja",
+  "description": "Learn the word TENNIS by slicing through falling tennis balls while avoiding bombs!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
